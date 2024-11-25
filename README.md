@@ -32,8 +32,8 @@ A powerful **Financial Management API** to handle user authentication, income, e
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/username/repository-name.git
-   cd repository-name
+   git clone https://github.com/AdiYohanes/Finance-Api.git
+   cd Finance-Api
    ```
 
 2. **Install dependencies**:
